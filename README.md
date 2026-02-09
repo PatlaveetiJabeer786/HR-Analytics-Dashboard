@@ -6,7 +6,7 @@ Employee attrition and performance analysis using Power BI. Designed to track ke
 **Goal:** To analyze employee demographics and turnover rates to help HR teams improve retention.
 
 ## 📊 Dashboard Preview
-![HR Dashboard Screenshot](Your_HR_Screenshot_Name.jpg)
+![HR Dashboard Screenshot](Hr_Analyics_Dash_Board.png)
 
 ## 🛠️ Skills Demonstrated
 * **Data Modeling:** Creating relationships between employee records and department performance.
